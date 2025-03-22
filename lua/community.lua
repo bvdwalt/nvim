@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.pack.cs-omnisharp" },
   { import = "astrocommunity.utility.hover-nvim" },
   { import = "astrocommunity.scrolling.mini-animate" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.diagnostics.trouble-vim" },
   -- import/override with your plugins folder
 }
